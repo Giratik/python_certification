@@ -1,2 +1,1 @@
-# python_certification
-# python_certification
+# python_certification from FreeCodeCamp
